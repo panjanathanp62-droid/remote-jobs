@@ -858,3 +858,4 @@ Name | Website | Region
 [Zolar](/company-profiles/zolar.md) | https://www.zolar.de/ | Germany
 [ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
+[Zup](https://nxtgenresearch.com/research-proposal-writing-services-2/) | https://nxtgenresearch.com/research-proposal-writing-services-2/ | India
